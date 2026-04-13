@@ -29,10 +29,10 @@
 
 things i do when i'm not staring at a screen (ok sometimes still on a screen):
 
-- 🎵 **[hobby]** — Music! I make music fairly often!
-- 📚 **[hobby]** — Digital arts! I love drawing my own little OCs doing stupid stuff!!
-- 🕹️ **[hobby]** — Gaming! I love playin games when I find the time, FNAF is my fav!
-- 🌿 **[hobby]** — Modding! I have made quite a few mods for my fav games!
+- 🎵 **MUSIC** — Music! I make music fairly often!
+- 📚 **ART** — Digital arts! I love drawing my own little OCs doing stupid stuff!!
+- 🕹️ **GAMING** — Gaming! I love playin games when I find the time, FNAF is my fav!
+- 🌿 **MODS** — Modding! I have made quite a few mods for my fav games!
 
 ---
 
