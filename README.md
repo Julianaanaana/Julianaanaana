@@ -30,9 +30,9 @@
 things i do when i'm not staring at a screen (ok sometimes still on a screen):
 
 - 🎵 **[hobby]** — Music! I make music fairly often!
-- 📚 **[hobby]** — a sentence or two about it
-- 🕹️ **[hobby]** — a sentence or two about it
-- 🌿 **[hobby]** — a sentence or two about it
+- 📚 **[hobby]** — Digital arts! I love drawing my own little OCs doing stupid stuff!!
+- 🕹️ **[hobby]** — Gaming! I love playin games when I find the time, FNAF is my fav!
+- 🌿 **[hobby]** — Modding! I have made quite a few mods for my fav games!
 
 ---
 
@@ -42,15 +42,14 @@ things i do when i'm not staring at a screen (ok sometimes still on a screen):
 
 | project | what it is | status |
 |--------|------------|--------|
-| **[project name]** | [one-line description] | 🟡 in progress |
-| **[project name]** | [one-line description] | 🟢 shipping soon |
-| **[project name]** | [one-line description] | 🔵 just started |
+| **Technolotls** | A team of epic awesome computer peoples who are gonna make cool stuff! | 🟡 in progress |
+| **Vanny OfficePal Mod** | A little mod where a fan favorite character appears in your office as a pal! | 🟡 in progress |
 
 ---
 
 ## 🦁 gif zoo
 
-*my collection of gifs i like. don't touch them. they're mine.*
+*my collection of gifs i like. don't touch them. they're mine!!!! UNDER CONSTRUCTION!*
 
 <div align="center">
 
