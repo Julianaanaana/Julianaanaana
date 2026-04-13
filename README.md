@@ -2,7 +2,7 @@
 
 # hi, i'm Juliana! 👋
 
-*[A young aspiring engineer with a focus on creativity, curiosity, and inclusivity.]*
+*A young aspiring engineer with a focus on creativity, curiosity, and inclusivity.*
 
 [![](https://img.shields.io/badge/location-earth-informational?style=flat&color=6c63ff)](/)
 [![](https://img.shields.io/badge/status-always%20building%20something-success?style=flat)](/)
@@ -20,8 +20,6 @@
 ![Possibly other ones!](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 **tools & frameworks**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
@@ -31,7 +29,7 @@
 
 things i do when i'm not staring at a screen (ok sometimes still on a screen):
 
-- 🎵 **[hobby]** — a sentence or two about it
+- 🎵 **[hobby]** — Music! I make music fairly often!
 - 📚 **[hobby]** — a sentence or two about it
 - 🕹️ **[hobby]** — a sentence or two about it
 - 🌿 **[hobby]** — a sentence or two about it
