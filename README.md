@@ -56,10 +56,14 @@ things i do when i'm not staring at a screen (ok sometimes still on a screen):
 <!-- drop your gifs in here like this: -->
 <!-- ![alt text](https://media.giphy.com/media/YOURID/giphy.gif) -->
 
-| | | |
-|---|---|---|
-| ![](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif) | ![](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) | ![](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif) |
-| *placeholder 1* | *placeholder 2* | *placeholder 3* |
+| | | | |
+| | | | |
+| | | | |
+|---|---|---|---|
+|---|---|---|---|
+|---|---|---|---|
+| ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NkMXVpbXdxMmlybzltM3dnaGdpOXU3djl6dHoxb2tiNWJ3MG43YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99Tb5E4Cu3Mly/giphy.gif) | ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBzb3ZsaHg5dmkzcnBvdjFkOHM1NGZqdGhpZThqenFrNThkMDI5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMHhlbAPA4aXeej7c5/giphy.gif) | ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcxZnd0YnpzNXdzem45czNqczgzaWpmOGFhcDN1dGFuaHFxdWJteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSx6mzbW1ew7K/giphy.gif) | ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh5eGIzZXdhaGpvdDQwY3NwY25iMzF2NGw4OHNieGo2d3Jxc3VpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7E7V5eSEeGYeeqVCz/giphy.gif)
+| *SPAaaaAAAAaaAace Cat!* | *fav scene from fnaf2 movie* | *NYAN CAT!!* | *Fresh freaking cats* |
 
 </div>
 
